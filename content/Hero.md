@@ -5,7 +5,7 @@ background: images/hero.jpg # Hero Background (Image), see: static/images/hero.j
 ctaLabel: Try Koala Now!  # CTA Label
 ctaUrl: "/#get-started"   # CTA Destination | Defaults to Conversion
 hide: false               # Hides Element
-fullScreen: false         # Sets Hero to full height of screen
+fullScreen: true         # Sets Hero to full height of screen
 # ---------------------------------------------------------
 # Notes:
 # ---------------------------------------------------------
